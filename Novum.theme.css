@@ -30,7 +30,7 @@ CUSTOMIZABLE BACKGROUND IMAGE AND MAIN COLORS BELOW*
 *IF YOU WANT TO CUSTOMIZE THOSE COLORS, CHANGE root TO :root 
 */
 
-root {
+:root {
   --app-background: url("https://images8.alphacoders.com/129/1293442.jpg"); /* main app background image [default: url("https://images8.alphacoders.com/129/1293442.jpg")] */
   --main-color: #5b2799; /* main color (used mostly in buttons) [default: #5b2799] */
   --main-color-selected: #672faa; /* [default: #672faa] */
